@@ -1,0 +1,15 @@
+{
+    "author": "Phillip Rosen <phill.rosen@gmail.com>",
+    "name": "memeitclient",
+    "description": "A client for Memeit.me",
+    "version": "0.1.9",
+    "repository": {
+        "url": ""
+    },
+    "main": "./index.js",
+    "engines": {
+        "node": ">= 0.3.0"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+}
